@@ -1,3 +1,3 @@
 def parrot(argument = "Squawk!")
-  puts argument
+  return puts argument
 end
